@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6278dc8b52cda044ca414468270766b6, type: 3}
+  m_Name: Chapter_2
+  m_EditorClassIdentifier: 
+  currentScene: 0
+  scenes:
+  - {fileID: 11400000, guid: 81f4fc53b900baf428e164cb4b8e6851, type: 2}
+  - {fileID: 11400000, guid: 72e1c42d7eba7e048a35b170a19418b7, type: 2}
+  - {fileID: 11400000, guid: 9460fca1e845b6349ba07a8e3fa20cf6, type: 2}
